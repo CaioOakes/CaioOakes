@@ -2,8 +2,8 @@
 
 <div align="Rigth">
   <a href="https://github.com/CaioOakes">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioOakes&layout=compact&langs_count=7&theme=dark"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=CaioOakes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioOakes&layout=compact&langs_count=7&theme=dark"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=CaioOakes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
 
 ## Linguagens que já tive contato, ou uso no dia a dia 
